@@ -1,0 +1,16 @@
+List of commands Homework2
+   
+   23  sudo mkdir test
+   24  cd test
+   25  sudo mkdir test_1
+   26  cd test_1/
+   27  sudo touch main.py
+   28  ls
+   29  cd test
+   30  cd ..
+   31  sudo rmdir test_1
+   32  sudo rmdir -r
+   33  sudo rmdir -r test_1
+   34  sudo rm -r test_1
+   35  ls
+   
