@@ -1,0 +1,8 @@
+   58  sudo apt-get install python3
+   60  python3
+   61  sudo apt-get install requests 2.26.0 
+   63  sudo apt-get install lxml
+   74  pip freeze > requirments.txt
+   75  ls
+   76  nano requirments.txt 
+   77  history
